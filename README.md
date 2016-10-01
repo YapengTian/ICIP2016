@@ -12,3 +12,7 @@ Yapeng Tian, Wenming Yang, Fei Zhou, Xuesen Shang, Qingmin Liao,
 IEEE Conference on Image Processing, (ICIP), 2016.
 
 Please cite this paper if the code can help you! For further information, please contact: typ14@mails.tsinghua.edu.cn
+
+Note:
+zooming factor : 2
+More rotation times can enhance SR performance! If you choose zooming factor as 3, you can rotate training images more times and set a smaller scale_num.
